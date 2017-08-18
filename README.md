@@ -2,7 +2,7 @@
 
 See my CIT 281 [Github Project Page for Project 5](https://uo-cit.github.io/p4-knault/index.html).
 
-Play my [Unity Lab Rat Simulator](http://pages.uoregon.edu/knault/GameArt/LabRatWebGL/) using WebGL! Keep in mind it may not work on all browsers.
+Play my [Unity Lab Rat Simulator](http://pages.uoregon.edu/knault/GameArt/LabRatWebGL/) using WebGL! Keep in mind it may not work on all browsers. 
 
 ### Kentucky Falls
 
